@@ -1,0 +1,1 @@
+image_time,angle_deg,inference_time_ms,delta_t,delta_angle,omega,dx_dt,dy_dt,tip_speed,puncture_detected
