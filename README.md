@@ -25,6 +25,4 @@ Contains result artifacts, including directories for specific experiments and ev
 
 
 ## Authors
-Sukriti Gupta
-Aabhas Jain
-Krystal Lan
+Sukriti Gupta, Aabhas Jain, Krystal Lan
