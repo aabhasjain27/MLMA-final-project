@@ -20,8 +20,7 @@ Contains result artifacts, including directories for specific experiments and ev
 - Experiment directories: `04.23`, `Egg06_05_TP`, etc.
 - Evaluation CSV files: `test1.csv`, `test2.csv`
 
-### Main Jupyter Notebook:
-- **Copy_of_MLMA_unet.ipynb**: Master notebook that does data preparation, model training, and evaluation for both UNet and YOLO models
+
 
 
 ## Authors
