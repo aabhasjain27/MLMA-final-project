@@ -1,5 +1,4 @@
 # MLMA-final-project
-MLMA Final Project
 
 In this project, we showcase training, evaluation, and deployment of deep learning models for retinal vein cannulation (RVC) segmentation and puncture detection using UNet and YOLOv11. Our main project files are organized as follows:
 
